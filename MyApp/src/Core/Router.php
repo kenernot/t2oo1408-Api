@@ -2,6 +2,11 @@
 
 namespace MyApp\Core;
 
+/**
+ * Description of Router
+ *
+ * @author drink
+ */
 class Router {
     
     private static $rotas = [];

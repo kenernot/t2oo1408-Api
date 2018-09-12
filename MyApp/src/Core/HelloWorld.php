@@ -4,7 +4,7 @@ namespace MyApp\Core;
 /**
  * Description of HelloWorld
  *
- * @author lucasj
+ * @author drink
  */
 class HelloWorld {
     
